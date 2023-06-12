@@ -1,6 +1,6 @@
 ## 个人简历
 
-<a href="/resource/fe_cv.pdf">点击查看 pdf 版</a>
+<a href="../resource/fe_cv.pdf" target="_blank">点击查看 pdf 版</a>
 
 ## 个人信息
 
