@@ -1,6 +1,6 @@
 ## 个人简历
 
-<a href="../resource/fe_cv.pdf" target="_blank">点击查看 pdf 版</a>
+<a href="https://yujiayue123.github.io/docsify_knowledge_base_home/resource/fe_cv.pdf" target="_blank">点击查看 pdf 版</a>
 
 ## 个人信息
 
