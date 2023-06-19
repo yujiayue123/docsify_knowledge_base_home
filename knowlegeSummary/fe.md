@@ -1,4 +1,4 @@
-# 前端-个人知识库
+# 前端-记录
 
 > 汇总地址：[https://yujiayue123.github.io/docsify_knowledge_base_fe](https://yujiayue123.github.io/docsify_knowledge_base_fe/)
 >
